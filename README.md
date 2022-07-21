@@ -2,12 +2,8 @@
 <p align="center">I'm a junior frontend developer</p>
 
 <p align="center"> 
-
-<a href="https://www.linkedin.com/in/samy99/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-![https://www.linkedin.com/in/samy99/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://www.facebook.com/samyvic/](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-  
+  <a href="https://www.linkedin.com/in/samy99/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/samyvic/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
  </p>
 
 ---
